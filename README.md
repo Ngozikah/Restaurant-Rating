@@ -98,8 +98,7 @@ Potential Biases and Observations
 •	Reevaluating Bar and Brewery Investments: Given their lower preference rates relative to supply, current businesses may need to innovate or diversify their offerings to attract more customers.
 
 ### Question 4: Investment Characteristics
-- **Key Characteristics**: Determine which characteristics are crucial when investing in a restaurant.
-- Key Characteristics for Successful Restaurant
+***- Key Characteristics for Successful Restaurant***
 - Alcohol Service: Restaurants offering "Wine & Beer" tend to have higher ratings, especially when combined with a no-smoking policy. Full bars also tend to do well, particularly in closed areas with either no or valet parking.
 - Smoking Policy: Generally, restaurants with no smoking allowed are rated higher than those with smoking sections, indicating a preference for smoke-free environments among the sampled consumers.
 - Pricing Strategy: Interestingly, restaurants at both the low and high price points show high ratings, suggesting that both budget-friendly and premium dining experiences are valued. The middle price range tends to perform variably.
