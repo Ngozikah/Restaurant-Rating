@@ -1,5 +1,9 @@
 # Restaurant-Rating
+
+## Overview
 This project involves analyzing restaurant ratings in Mexico. The dataset includes information about restaurants, their cuisines, consumer demographics, preferences, and ratings. The goal is to provide insights to aid business entrepreneurs and investors in making informed decisions.
+
+![Restuarant_Rating_](https://github.com/Ngozikah/Restaurant-Rating/assets/170735868/b9d962ef-3609-46e9-ae94-d4e651d39705)
 
 ***Data Description***
 ### consumer_preferences.csv
@@ -24,9 +28,12 @@ This project involves analyzing restaurant ratings in Mexico. The dataset includ
 ### restaurants.csv
 - **restaurant_id**: Unique identifier for each restaurant
 - **name**: Name of the restaurant
-- **location**: Location of the restaurant
+- **Location**: Location of the restaurant
 - **average_cost**: Average cost of a meal at the restaurant
 - **total_reviews**: Total number of reviews
+
+##Tools Used
+-Power BI
 
 ## Analysis
 ### Question 1: Highest Rated Restaurants
@@ -106,8 +113,10 @@ Potential Biases and Observations
 - Area and Parking: Closed areas (likely indicating indoor dining) and the absence of parking or valet parking seem to correlate with higher ratings. This could reflect a preference for dining experiences that are perceived as more exclusive or convenient
 
 
-
 ## Conclusion
-Based on the analysis, These insights can guide investment decisions, marketing strategies, and menu selections for restaurant owners looking to capitalize towards consumer needs or reduce competition in oversaturated segments.
+The analysis of restaurant ratings in Mexico provided in this project offers significant insights for entrepreneurs and investors looking to enter or expand within the food and beverage industry. I identified key factors influencing consumer satisfaction and potential market opportunities based on the alignment or disparity between consumer preferences and the availability of certain cuisines. My findings indicate a strong market preference for Mexican cuisine, which, despite its popularity, remains underrepresented in the current restaurant offerings. This suggests a clear opportunity for new establishments or existing restaurants looking to diversify their menu options. Additionally, niche markets such as coffee shops also appear underserved and represent a potential area for growth. The demographic analysis reveals that our dataset predominantly represents young, single consumers from urban areas, particularly San Luis Potosi. This demographic trend underlines the importance of considering location-specific consumer preferences and the potential biases that may arise from a geographically concentrated dataset.
+Furthermore, our strategic recommendations highlight the importance of aligning restaurant characteristics with consumer preferences, such as non-smoking policies and diverse alcohol service options, to enhance customer satisfaction and ratings.
+By addressing these identified gaps between supply and demand and considering the detailed preferences and characteristics of their target market, entrepreneurs and investors can make more informed decisions, potentially leading to greater success in the competitive restaurant industry in Mexico. 
+This project serves as a foundational analysis for those looking to capitalize on these insights, offering a data-driven approach to navigating the complex landscape of consumer preferences and market opportunities.
 
 
