@@ -75,15 +75,15 @@ This analysis suggests that while Mexican cuisine is both highly preferred and c
 11 have kids,
 3 are dependent (living with parents).
 ### Occupation:
-o	113 are students,
-o	16 are employed,
-o	2 are unemployed.
+113 are students,
+16 are employed,
+2 are unemployed.
 ### Budget:
-o	91 have a medium budget,
-o	35 have a low budget,
-o	5 have a high budget.
+91 have a medium budget,
+35 have a low budget,
+5 have a high budget.
 
-Potential Biases and Observations
+***Potential Biases and Observations***
 •	Age Distribution: The presence of consumers across different age groups provides a diverse view, but specific data on age distribution would further clarify representativeness.
 •	Location Bias: Given all consumers are from Mexico, and predominantly from San Luis Potosi, there's a geographic concentration that might limit the generalizability of findings to other regions or countries.
 •	Marital Status and Children: The dataset is heavily skewed towards single individuals without children, which could impact preferences particularly relevant to family-friendly amenities or children's menus
@@ -95,6 +95,7 @@ Potential Biases and Observations
 -Coffee Shop: Preferred by 8 consumers but only available in 1 restaurant, indicating a possible niche for coffee-focused establishments.
 -American Cuisine: Has a demand of 11 but a supply of only 5, pointing to a possible undersupply.
 -Family Restaurants and Hot Dogs: Both have noticeable gaps where consumer interest exceeds the number of restaurants catering to these preferences.
+
 ***Cuisines with Oversupply****
 -Bar Cuisine: 13 restaurants offer this cuisine, but only 3 consumer preferences, indicating a possible oversaturation in the market.
 -Brewery: Offered by 6 restaurants but only preferred by 1 consumer.
@@ -118,5 +119,3 @@ The analysis of restaurant ratings in Mexico provided in this project offers sig
 Furthermore, our strategic recommendations highlight the importance of aligning restaurant characteristics with consumer preferences, such as non-smoking policies and diverse alcohol service options, to enhance customer satisfaction and ratings.
 By addressing these identified gaps between supply and demand and considering the detailed preferences and characteristics of their target market, entrepreneurs and investors can make more informed decisions, potentially leading to greater success in the competitive restaurant industry in Mexico. 
 This project serves as a foundational analysis for those looking to capitalize on these insights, offering a data-driven approach to navigating the complex landscape of consumer preferences and market opportunities.
-
-
